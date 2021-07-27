@@ -1,0 +1,21 @@
+.addPlaceWindowInner form {
+    text-align: center;
+}
+
+.add-place-button {
+    width: max-content;
+    border: 2px solid black;
+    padding: 10px 15px;
+    border-radius: 25px;
+    background-color: #ffe2bc;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+
+span.flex {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 25px;
+}

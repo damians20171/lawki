@@ -1,0 +1,18 @@
+.sidebar-inner {
+    padding: 15px 25px;
+    margin-top: 30px;
+}
+
+.sidebar-inner h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    letter-spacing: 0.5px;
+}
+
+.sidebar-image {
+    text-align: center;
+}
+
+.sidebar-inner li {
+    margin-bottom: 15px;
+}
